@@ -1,0 +1,32 @@
+.top{
+    background-color: white;
+    color: rgb(36, 24, 2);
+    padding:0px;
+    /* opacity: .5; */
+
+}
+#logo{
+    font-family: 'Kaushan Script', cursive; 
+    text-align: center;
+    font-size: 42;
+    color:rgb(46, 3, 15);
+    }
+    /* #pic{
+        height: 300px;
+        width:auto;
+    } */
+.card{
+    font-family: 'Kaushan Script', cursive; 
+    padding:0px;
+    }
+ 
+.itop{
+     background-size: cover; 
+    min-height: 500px;
+    opacity: .8;   
+    }
+
+.bd{
+    padding:0px;
+    margin:0px;
+    }
