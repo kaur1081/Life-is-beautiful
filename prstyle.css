@@ -22,7 +22,7 @@
  
 .itop{
      background-size: cover; 
-    min-height: 500px;
+    max-height: 300px;
     opacity: .8;   
     }
 
